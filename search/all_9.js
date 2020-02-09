@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['painttraverse_73',['PaintTraverse',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_paint_traverse.html',1,'HepajSharp::HepajSharp']]],
-  ['player_5finfo_5fs_74',['player_info_s',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_enumerations_1_1_definitions_1_1player__info__s.html',1,'HepajSharp::HepajSharp::Enumerations::Definitions']]],
-  ['program_75',['Program',['../class_hepaj_sharp_1_1_e_s_p_1_1_program.html',1,'HepajSharp.ESP.Program'],['../class_hepaj_sharp_1_1_aim_1_1_program.html',1,'HepajSharp.Aim.Program']]]
+  ['overridemouseinput_74',['OverrideMouseInput',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_override_mouse_input.html',1,'HepajSharp::HepajSharp']]],
+  ['overrideview_75',['OverrideView',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_override_view.html',1,'HepajSharp::HepajSharp']]]
 ];

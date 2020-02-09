@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['togglemenu_156',['ToggleMenu',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_g_u_i_manager_1_1_toggle_menu.html',1,'HepajSharp::HepajSharp::GUIManager']]],
-  ['tracefiltermethods_157',['TraceFilterMethods',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_trace_filter_methods.html',1,'HepajSharp::HepajSharp::Utils']]],
-  ['trigger_158',['Trigger',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_features_1_1_trigger.html',1,'HepajSharp::HepajSharp::Features']]]
+  ['slidermenu_162',['SliderMenu',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_g_u_i_manager_1_1_slider_menu.html',1,'HepajSharp::HepajSharp::GUIManager']]],
+  ['studiohdr_5ft_163',['studiohdr_t',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_enumerations_1_1_definitions_1_1studiohdr__t.html',1,'HepajSharp::HepajSharp::Enumerations::Definitions']]]
 ];

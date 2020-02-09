@@ -15,13 +15,14 @@ var searchData=
   ['clientclass_12',['ClientClass',['../struct_hepaj_sharp_1_1_hepaj_sharp_kernel_1_1_s_d_ks_1_1_c_s_g_o_1_1_client_class.html',1,'HepajSharp::HepajSharpKernel::SDKs::CSGO']]],
   ['color_13',['Color',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_color.html',1,'HepajSharp::HepajSharp::Utils']]],
   ['concommand_14',['ConCommand',['../class_hepaj_sharp_1_1_con_command.html',1,'HepajSharp']]],
-  ['convar_15',['ConVar',['../class_hepaj_sharp_1_1_con_var.html',1,'HepajSharp']]],
-  ['cplane_5ft_16',['cplane_t',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1cplane__t.html',1,'HepajSharp::HepajSharp::Utils']]],
-  ['createmove_17',['CreateMove',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_create_move.html',1,'HepajSharp::HepajSharp']]],
-  ['crecvproxydata_18',['CRecvProxyData',['../struct_hepaj_sharp_1_1_hepaj_sharp_kernel_1_1_s_d_ks_1_1_c_s_g_o_1_1_c_recv_proxy_data.html',1,'HepajSharp::HepajSharpKernel::SDKs::CSGO']]],
-  ['csurface_5ft_19',['csurface_t',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1csurface__t.html',1,'HepajSharp::HepajSharp::Utils']]],
-  ['ctracefilter_20',['CTraceFilter',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_c_trace_filter.html',1,'HepajSharp::HepajSharp::Utils']]],
-  ['ctracefiltervftable_21',['CTraceFilterVFTable',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_c_trace_filter_v_f_table.html',1,'HepajSharp::HepajSharp::Utils']]],
-  ['cusercmd_22',['CUserCmd',['../struct_hepaj_sharp_1_1_hepaj_sharp_kernel_1_1_s_d_ks_1_1_c_s_g_o_1_1_c_user_cmd.html',1,'HepajSharp::HepajSharpKernel::SDKs::CSGO']]],
-  ['cviewsetup_23',['CViewSetup',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_c_view_setup.html',1,'HepajSharp::HepajSharp::Utils']]]
+  ['console_15',['Console',['../class_hepaj_sharp_1_1_console.html',1,'HepajSharp']]],
+  ['convar_16',['ConVar',['../class_hepaj_sharp_1_1_con_var.html',1,'HepajSharp']]],
+  ['cplane_5ft_17',['cplane_t',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1cplane__t.html',1,'HepajSharp::HepajSharp::Utils']]],
+  ['createmove_18',['CreateMove',['../class_hepaj_sharp_1_1_hepaj_sharp_1_1_create_move.html',1,'HepajSharp::HepajSharp']]],
+  ['crecvproxydata_19',['CRecvProxyData',['../struct_hepaj_sharp_1_1_hepaj_sharp_kernel_1_1_s_d_ks_1_1_c_s_g_o_1_1_c_recv_proxy_data.html',1,'HepajSharp::HepajSharpKernel::SDKs::CSGO']]],
+  ['csurface_5ft_20',['csurface_t',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1csurface__t.html',1,'HepajSharp::HepajSharp::Utils']]],
+  ['ctracefilter_21',['CTraceFilter',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_c_trace_filter.html',1,'HepajSharp::HepajSharp::Utils']]],
+  ['ctracefiltervftable_22',['CTraceFilterVFTable',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_c_trace_filter_v_f_table.html',1,'HepajSharp::HepajSharp::Utils']]],
+  ['cusercmd_23',['CUserCmd',['../struct_hepaj_sharp_1_1_hepaj_sharp_kernel_1_1_s_d_ks_1_1_c_s_g_o_1_1_c_user_cmd.html',1,'HepajSharp::HepajSharpKernel::SDKs::CSGO']]],
+  ['cviewsetup_24',['CViewSetup',['../struct_hepaj_sharp_1_1_hepaj_sharp_1_1_utils_1_1_c_view_setup.html',1,'HepajSharp::HepajSharp::Utils']]]
 ];
